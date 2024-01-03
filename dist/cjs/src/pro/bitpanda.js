@@ -22,10 +22,10 @@ class bitpanda extends bitpanda$1 {
             },
             'urls': {
                 'test': {
-                    'ws': 'wss://test.bitpanda.com/ws/api/v2',
+                    'ws': 'wss://test.onetrading.com/ws/api/v2',
                 },
                 'api': {
-                    'ws': 'wss://streams.exchange.bitpanda.com',
+                    'ws': 'wss://streams.onetrading.com/',
                 },
             },
             'options': {

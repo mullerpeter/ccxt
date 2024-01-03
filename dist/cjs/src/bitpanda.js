@@ -113,8 +113,8 @@ class bitpanda extends bitpanda$1 {
             'urls': {
                 'logo': 'https://user-images.githubusercontent.com/51840849/87591171-9a377d80-c6f0-11ea-94ac-97a126eac3bc.jpg',
                 'api': {
-                    'public': 'https://api.exchange.bitpanda.com/public',
-                    'private': 'https://api.exchange.bitpanda.com/public',
+                    'public': 'https://api.onetrading.com/public',
+                    'private': 'https://api.onetrading.com/public',
                 },
                 'www': 'https://www.bitpanda.com/en/pro',
                 'doc': [

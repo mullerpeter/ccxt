@@ -28,10 +28,10 @@ class bitpanda extends \ccxt\async\bitpanda {
             ),
             'urls' => array(
                 'test' => array(
-                    'ws' => 'wss://test.bitpanda.com/ws/api/v2',
+                    'ws' => 'wss://test.onetrading.com/ws/api/v2',
                 ),
                 'api' => array(
-                    'ws' => 'wss://streams.exchange.bitpanda.com',
+                    'ws' => 'wss://streams.onetrading.com/',
                 ),
             ),
             'options' => array(
